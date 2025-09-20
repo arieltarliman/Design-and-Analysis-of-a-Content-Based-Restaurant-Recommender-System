@@ -2,7 +2,7 @@
 
 ## 🚀 Introduction
 
-This project presents a content-based restaurant recommender system designed to provide personalized dining suggestions. By analyzing various attributes of restaurants—such as cuisine, location, and customer ratings—the system identifies and recommends establishments that are most similar to a user's specified choice.
+This project presents a content-based restaurant recommender system designed to provide personalized dining suggestions. By analyzing various attributes of restaurants such as cuisine, location, and customer ratings the system identifies and recommends establishments that are most similar to a user's specified choice.
 
 The entire analysis and model development process is documented in the accompanying Jupyter Notebook.
 
